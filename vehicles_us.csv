@@ -1,0 +1,49 @@
+price,model_year,model,condition,cylinders,fuel,odometer,transmission,type,paint_color,is_4wd,date_posted,days_listed
+9400,2011,bmw x5,good,6.0,gas,145000.0,automatic,suv,,,2018-06-23,19
+25500,2011,gmc acadia,good,6.0,gas,126000.0,automatic,suv,white,1.0,2019-03-03,80
+5500,2014,ford escape,excellent,4.0,gas,51000.0,automatic,suv,white,1.0,2019-03-22,9
+1500,2002,ford f-150,fair,8.0,gas,214000.0,automatic,pickup,silver,,2018-10-19,35
+20000,2017,nissan rogue,excellent,4.0,gas,25000.0,automatic,suv,white,,2018-07-02,85
+8000,2007,toyota camry,good,4.0,gas,120000.0,automatic,sedan,silver,,2018-11-23,62
+13000,2010,honda cr-v,good,4.0,gas,98000.0,automatic,suv,white,1.0,2019-01-05,23
+18500,2015,jeep grand cherokee,excellent,6.0,gas,45000.0,automatic,suv,black,1.0,2018-12-10,18
+7200,2008,honda civic,good,4.0,gas,130000.0,automatic,sedan,blue,,2018-08-15,55
+32000,2018,ford f-150,like new,8.0,gas,18000.0,automatic,pickup,white,1.0,2019-02-20,12
+15000,2012,toyota rav4,good,4.0,gas,115000.0,automatic,suv,silver,1.0,2018-09-11,45
+4800,2005,chevrolet silverado 1500,fair,8.0,gas,235000.0,automatic,pickup,red,1.0,2018-07-30,90
+27000,2016,honda accord,excellent,4.0,gas,38000.0,automatic,sedan,black,,2019-03-15,14
+9500,2009,nissan altima,good,4.0,gas,145000.0,automatic,sedan,white,,2018-10-05,67
+22000,2015,toyota highlander,excellent,6.0,gas,55000.0,automatic,suv,blue,1.0,2018-11-18,40
+11000,2011,ford fusion,good,4.0,gas,108000.0,automatic,sedan,gray,,2019-01-20,28
+6500,2006,dodge ram 1500,fair,8.0,gas,198000.0,automatic,pickup,black,1.0,2018-08-28,73
+19500,2014,mazda cx-5,excellent,4.0,gas,62000.0,automatic,suv,red,1.0,2018-12-22,35
+14000,2013,hyundai sonata,good,4.0,gas,88000.0,automatic,sedan,white,,2019-02-08,21
+29000,2017,chevrolet equinox,like new,4.0,gas,28000.0,automatic,suv,silver,1.0,2018-10-30,52
+8800,2010,honda accord,good,4.0,gas,125000.0,automatic,sedan,black,,2018-09-25,60
+12500,2012,jeep wrangler,good,6.0,gas,95000.0,manual,suv,green,1.0,2019-01-12,15
+17000,2015,nissan sentra,excellent,4.0,gas,48000.0,automatic,sedan,gray,,2018-11-05,44
+5200,2004,toyota corolla,fair,4.0,gas,185000.0,automatic,sedan,white,,2018-07-15,88
+24000,2016,subaru outback,excellent,4.0,gas,42000.0,automatic,wagon,blue,1.0,2019-03-08,19
+10500,2011,volkswagen jetta,good,5.0,gas,112000.0,automatic,sedan,silver,,2018-12-01,38
+7800,2008,ford explorer,good,6.0,gas,142000.0,automatic,suv,red,1.0,2018-08-20,70
+21000,2016,honda pilot,excellent,6.0,gas,52000.0,automatic,suv,white,1.0,2019-02-25,16
+13500,2013,kia sorento,good,4.0,gas,92000.0,automatic,suv,black,1.0,2018-10-15,50
+28000,2017,toyota camry,like new,4.0,gas,22000.0,automatic,sedan,silver,,2019-01-28,24
+9200,2010,chevrolet malibu,good,4.0,gas,118000.0,automatic,sedan,blue,,2018-09-08,58
+16000,2014,ford edge,good,6.0,gas,78000.0,automatic,suv,white,1.0,2018-11-28,33
+6800,2007,honda cr-v,fair,4.0,gas,168000.0,automatic,suv,gray,1.0,2018-08-05,76
+23000,2016,mazda mazda6,excellent,4.0,gas,35000.0,automatic,sedan,red,,2019-03-01,11
+11500,2012,nissan pathfinder,good,6.0,gas,105000.0,automatic,suv,silver,1.0,2018-12-15,29
+19000,2015,chevrolet traverse,excellent,6.0,gas,58000.0,automatic,suv,black,1.0,2019-02-12,20
+8500,2009,toyota matrix,good,4.0,gas,135000.0,automatic,wagon,white,,2018-10-22,54
+26000,2017,hyundai santa fe,like new,4.0,gas,30000.0,automatic,suv,blue,1.0,2019-01-08,25
+12000,2013,ford focus,good,4.0,gas,95000.0,automatic,sedan,gray,,2018-11-12,42
+5800,2005,honda accord,fair,4.0,gas,192000.0,automatic,sedan,silver,,2018-07-25,85
+20000,2016,volkswagen tiguan,excellent,4.0,gas,48000.0,automatic,suv,black,1.0,2019-03-12,13
+15500,2014,subaru forester,good,4.0,gas,72000.0,automatic,suv,green,1.0,2018-09-18,65
+7500,2008,nissan maxima,good,6.0,gas,155000.0,automatic,sedan,white,,2018-10-08,58
+22500,2016,toyota 4runner,excellent,6.0,gas,38000.0,automatic,suv,gray,1.0,2019-02-18,17
+10800,2011,hyundai elantra,good,4.0,gas,115000.0,automatic,sedan,blue,,2018-12-05,36
+18000,2015,gmc terrain,excellent,4.0,gas,62000.0,automatic,suv,red,1.0,2019-01-15,22
+6200,2006,ford taurus,fair,6.0,gas,188000.0,automatic,sedan,black,,2018-08-12,72
+25000,2017,jeep cherokee,like new,4.0,gas,28000.0,automatic,suv,white,1.0,2019-03-05,10
