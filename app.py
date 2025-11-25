@@ -143,7 +143,7 @@ fig_condition = px.box(
 )
 st.plotly_chart(fig_condition, use_container_width=True)
 
-# Show histogram with manufacturer
+# Days Listed histogram
 st.subheader('Days Listed Distribution')
 checkbox = st.checkbox('Show Days Listed Histogram')
 if checkbox:
