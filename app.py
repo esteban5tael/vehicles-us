@@ -6,7 +6,7 @@ import streamlit as st
 car_data = pd.read_csv('vehicles_us.csv')
 
 # Encabezado de la aplicación
-st.header('📊 Dashboard de Vehículos en Venta')
+st.header('📊 Dashboard de Vehículos en Venta 🚗🚗🚗')
 
 st.write("""
 Análisis interactivo del mercado de vehículos usados en Estados Unidos.
